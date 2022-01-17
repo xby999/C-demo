@@ -3,4 +3,6 @@
 
 
 顺便几点笔记：
+
+C++之内存管理：申请与释放
 https://blog.csdn.net/weixin_53472920/article/details/119744114
